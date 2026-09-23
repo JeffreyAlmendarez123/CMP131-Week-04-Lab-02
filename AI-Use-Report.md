@@ -2,16 +2,16 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Jeffrey Almendarez
+- Week:4
+- Lab:02
+- Date:9/23/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [x ] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -20,31 +20,31 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool:github copilot
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response: Just help reading my codes and making sure it was smooth.
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:
+Response:I reread my codes and made sure everything ran well with no errors.
 
 ## Testing and Verification
 
 Explain how you tested the code and confirmed that the AI assistance was accurate.
 
-Response:
+Response:I used the suggestion when I had = signs in my print but afterwards I removed it and everything ran well afterwards.
 
 ## What I Learned
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: I learned how to use the input function while displaying the artmethic operations.
 
 ## Summary
 
